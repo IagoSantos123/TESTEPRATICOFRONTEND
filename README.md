@@ -14,6 +14,8 @@ O frontend foi **hospedado na Vercel**, o que permite fácil acesso e compartilh
 
 👉 [https://testepraticofrontend.vercel.app/](https://testepraticofrontend.vercel.app/)
 
+⚠️ **Atenção:** a API está hospedada no Render, que entra em **modo de dormência (sleep)** após algum tempo de inatividade. Por isso, ao acessar o projeto pela primeira vez depois de um tempo, a API pode demorar **até 1 minuto** para responder. Basta aguardar que os dados serão carregados normalmente.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
